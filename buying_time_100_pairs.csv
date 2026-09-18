@@ -1,0 +1,101 @@
+id,estate,town,school,km,car_am_min,pt_am_min,adv_am_min,depart_car,depart_pt,car_pm_min,pt_pm_min,arrive_car,arrive_pt,adv_day_min
+1,Choa Chu Kang – Choa Chu Kang Crescent,Choa Chu Kang,Ngee Ann Secondary School,23.77,49.9,82.8,32.9,06:40,06:07,45.1,85.8,16:45,17:26,73.6
+2,Toa Payoh – Joo Seng Road,Toa Payoh,Westwood Secondary School,19.96,43.1,74.8,31.7,06:47,06:15,39.0,77.8,16:39,17:18,70.4
+3,Central Area – Upper Cross Street,Central Area,Hougang Secondary School,11.25,28.1,56.9,28.8,07:02,06:33,25.6,59.9,16:26,17:00,63.0
+4,Sengkang – Fernvale Link,Sengkang,Yuan Ching Secondary School,18.52,40.6,71.8,31.2,06:49,06:18,36.8,74.8,16:37,17:15,69.2
+5,Tengah – Sungei Tengah Road,Tengah,School Of The Arts,16.41,36.9,67.4,30.5,06:53,06:23,33.5,70.4,16:34,17:10,67.4
+6,Jurong West – Jurong West Street 61,Jurong West,Admiralty Secondary School,16.52,37.1,67.7,30.5,06:53,06:22,33.7,70.7,16:34,17:11,67.5
+7,Bukit Merah – Redhill Close,Bukit Merah,Chij Saint Joseph'S Convent,14.98,34.5,64.5,30.0,06:56,06:26,31.3,67.5,16:31,17:08,66.2
+8,Kallang/Whampoa – Lorong 3 Geylang,Kallang/Whampoa,Chij Our Lady Of Good Counsel,5.16,17.4,38.5,21.1,07:13,06:52,16.1,40.5,16:16,16:40,45.6
+9,Tampines – Tampines Street 21,Tampines,Anderson Secondary School,11.29,28.2,57.0,28.8,07:02,06:33,25.7,60.0,16:26,17:00,63.1
+10,Tengah – Sungei Tengah Road,Tengah,New Town Secondary School,10.01,26.0,49.3,23.3,07:04,06:41,23.7,51.3,16:24,16:51,50.9
+11,Jurong East – Jurong East Street 21,Jurong East,Raffles Institution,10.91,27.5,51.2,23.7,07:02,06:39,25.1,53.2,16:25,16:53,51.7
+12,Jurong West – Jurong West Street 91,Jurong West,Pasir Ris Crest Secondary School,30.21,61.5,96.6,35.1,06:28,05:53,55.4,99.6,16:55,17:40,79.3
+13,Punggol – Punggol Field,Punggol,Presbyterian High School,7.4,21.5,43.7,22.3,07:08,06:46,19.7,45.7,16:20,16:46,48.3
+14,Toa Payoh – Potong Pasir Avenue 1,Toa Payoh,Bukit View Secondary School,12.7,30.6,59.8,29.3,06:59,06:30,27.8,62.8,16:28,17:03,64.3
+15,Punggol – Northshore Drive,Punggol,Cedar Girls' Secondary School,9.86,25.7,49.0,23.3,07:04,06:41,23.5,51.0,16:24,16:51,50.8
+16,Woodlands – Woodlands Street 83,Woodlands,Methodist Girls' School,12.23,29.8,58.9,29.1,07:00,06:31,27.1,61.9,16:27,17:02,63.9
+17,Kallang/Whampoa – Lorong 3 Geylang,Kallang/Whampoa,Singapore Chinese Girls' School,5.17,17.4,38.6,21.1,07:13,06:51,16.1,40.6,16:16,16:41,45.6
+18,Geylang – Aljunied Avenue 2,Geylang,Naval Base Secondary School,12.47,30.2,59.4,29.2,07:00,06:31,27.5,62.4,16:28,17:02,64.1
+19,Bedok – Bedok South Avenue 2,Bedok,Peirce Secondary School,12.6,30.4,59.6,29.3,07:00,06:30,27.7,62.6,16:28,17:03,64.2
+20,Punggol – Punggol Road,Punggol,Singapore Sports School,12.98,31.0,60.4,29.4,06:59,06:30,28.3,63.4,16:28,17:03,64.6
+21,Sengkang – Fernvale Road,Sengkang,Changkat Changi Secondary School,10.52,26.9,50.4,23.5,07:03,06:40,24.5,52.4,16:24,16:52,51.4
+22,Sembawang – Canberra Street,Sembawang,Yuhua Secondary School,16.45,37.0,67.5,30.5,06:53,06:22,33.6,70.5,16:34,17:10,67.5
+23,Tengah – Tengah Garden Avenue,Tengah,Chij Saint Nicholas Girls' School,11.49,28.5,57.4,28.9,07:02,06:33,26.0,60.4,16:26,17:00,63.3
+24,Sengkang – Fernvale Road,Sengkang,Victoria School,11.08,27.8,56.5,28.7,07:02,06:34,25.4,59.5,16:25,17:00,62.9
+25,Tengah – Sungei Tengah Road,Tengah,Raffles Institution,13.18,31.4,60.8,29.4,06:59,06:29,28.6,63.8,16:29,17:04,64.7
+26,Woodlands – Woodlands Drive 75,Woodlands,Kranji Secondary School,9.09,24.4,47.4,23.0,07:06,06:43,22.3,49.4,16:22,16:49,50.0
+27,Sengkang – Fernvale Link,Sengkang,Zhenghua Secondary School,12.64,30.5,59.7,29.3,07:00,06:30,27.7,62.7,16:28,17:03,64.3
+28,Tengah – Sungei Tengah Road,Tengah,Westwood Secondary School,4.22,15.6,36.1,20.5,07:14,06:54,14.5,38.1,16:14,16:38,44.2
+29,Woodlands – Marsiling Rise,Woodlands,Assumption English School,7.92,22.4,44.9,22.5,07:08,06:45,20.5,46.9,16:20,16:47,48.8
+30,Jurong East – Teban Gardens Road,Jurong East,Chua Chu Kang Secondary School,7.06,20.9,43.0,22.1,07:09,06:47,19.2,45.0,16:19,16:45,47.9
+31,Bishan – Bishan Street 22,Bishan,Woodgrove Secondary School,9.3,24.8,47.8,23.1,07:05,06:42,22.6,49.8,16:23,16:50,50.2
+32,Central Area – Upper Cross Street,Central Area,Saint Joseph'S Institution,4.65,16.4,37.3,20.8,07:14,06:53,15.2,39.3,16:15,16:39,44.9
+33,Tengah – Sungei Tengah Road,Tengah,Commonwealth Secondary School,7.47,21.6,43.9,22.3,07:08,06:46,19.8,45.9,16:20,16:46,48.4
+34,Tengah – Sungei Tengah Road,Tengah,Hua Yi Secondary School,4.73,16.6,37.5,20.9,07:13,06:52,15.3,39.5,16:15,16:40,45.0
+35,Choa Chu Kang – Choa Chu Kang North 6,Choa Chu Kang,Serangoon Secondary School,17.38,38.6,69.4,30.8,06:51,06:21,35.0,72.4,16:35,17:12,68.2
+36,Tengah – Sungei Tengah Road,Tengah,Yishun Town Secondary School,13.02,31.1,60.5,29.4,06:59,06:30,28.3,63.5,16:28,17:04,64.6
+37,Jurong West – Jurong West Street 91,Jurong West,Yuying Secondary School,22.42,47.5,79.9,32.5,06:42,06:10,42.9,82.9,16:43,17:23,72.5
+38,Sembawang – Canberra Street,Sembawang,Nanyang Girls' High School,13.35,31.7,61.2,29.5,06:58,06:29,28.8,64.2,16:29,17:04,64.9
+39,Yishun – Yishun Street 22,Yishun,Unity Secondary School,10.89,27.5,51.1,23.7,07:02,06:39,25.1,53.1,16:25,16:53,51.7
+40,Tengah – Sungei Tengah Road,Tengah,Regent Secondary School,2.83,12.7,32.2,19.5,07:17,06:58,11.9,34.2,16:12,16:34,41.9
+41,Serangoon – Serangoon Avenue 3,Serangoon,Greendale Secondary School,6.68,20.2,42.1,21.9,07:10,06:48,18.6,44.1,16:19,16:44,47.5
+42,Kallang/Whampoa – Saint George'S Road,Kallang/Whampoa,Loyang View Secondary School,11.84,29.1,58.1,29.0,07:01,06:32,26.5,61.1,16:26,17:01,63.6
+43,Ang Mo Kio – Ang Mo Kio Avenue 4,Ang Mo Kio,Beatty Secondary School,4.26,15.7,36.3,20.6,07:14,06:54,14.5,38.3,16:14,16:38,44.3
+44,Geylang – Cassia Crescent,Geylang,Singapore Chinese Girls' School,6.3,19.5,41.3,21.7,07:10,06:49,18.0,43.3,16:18,16:43,47.0
+45,Woodlands – Woodlands Drive 16,Woodlands,Tanjong Katong Secondary School,18.26,40.1,71.3,31.1,06:50,06:19,36.4,74.3,16:36,17:14,69.0
+46,Punggol – Punggol Place,Punggol,Greendale Secondary School,1.16,8.6,21.6,13.0,07:21,07:08,8.2,23.6,16:08,16:24,28.4
+47,Jurong West – Yung Ping Road,Jurong West,Tanjong Katong Girls' School,19.54,42.4,73.9,31.5,06:48,06:16,38.4,76.9,16:38,17:17,70.0
+48,Tengah – Plantation Crescent,Tengah,West Spring Secondary School,4.56,16.3,37.0,20.8,07:14,06:53,15.1,39.0,16:15,16:39,44.7
+49,Tengah – Tengah Garden Avenue,Tengah,"School Of Science And Technology, Singapore",6.71,20.2,42.2,21.9,07:10,06:48,18.6,44.2,16:19,16:44,47.5
+50,Bedok – Jalan Tenaga,Bedok,Methodist Girls' School,13.63,32.2,61.8,29.6,06:58,06:28,29.3,64.8,16:29,17:05,65.1
+51,Pasir Ris – Pasir Ris Street 21,Pasir Ris,Singapore Chinese Girls' School,15.65,35.6,65.9,30.3,06:54,06:24,32.3,68.9,16:32,17:09,66.8
+52,Central Area – Tanjong Pagar Plaza,Central Area,School Of The Arts,2.65,12.3,31.7,19.4,07:18,06:58,11.5,33.7,16:12,16:34,41.5
+53,Toa Payoh – Potong Pasir Avenue 1,Toa Payoh,Kranji Secondary School,15.19,34.8,64.9,30.1,06:55,06:25,31.6,67.9,16:32,17:08,66.4
+54,Tampines – Tampines Street 21,Tampines,Edgefield Secondary School,7.42,21.5,43.8,22.3,07:08,06:46,19.7,45.8,16:20,16:46,48.3
+55,Sengkang – Fernvale Road,Sengkang,Tampines Secondary School,9.16,24.5,47.5,23.0,07:06,06:42,22.4,49.5,16:22,16:50,50.1
+56,Bukit Batok – Bukit Batok West Avenue 6,Bukit Batok,Loyang View Secondary School,23.72,49.8,82.7,32.9,06:40,06:07,45.0,85.7,16:45,17:26,73.6
+57,Tengah – Tengah Garden Avenue,Tengah,Peirce Secondary School,10.89,27.5,51.1,23.7,07:02,06:39,25.1,53.1,16:25,16:53,51.7
+58,Central Area – Klang Lane,Central Area,Fuchun Secondary School,16.08,36.4,66.8,30.4,06:54,06:23,33.0,69.8,16:33,17:10,67.2
+59,Sengkang – Compassvale Link,Sengkang,Compassvale Secondary School,1.31,9.0,22.3,13.3,07:21,07:08,8.6,24.3,16:09,16:24,29.0
+60,Tampines – Tampines Street 21,Tampines,Ang Mo Kio Secondary School,12.14,29.6,58.7,29.1,07:00,06:31,27.0,61.7,16:27,17:02,63.8
+61,Bukit Panjang – Petir Road,Bukit Panjang,Admiralty Secondary School,8.47,23.3,46.0,22.7,07:07,06:44,21.4,48.0,16:21,16:48,49.4
+62,Tampines – Tampines Street 21,Tampines,Yishun Town Secondary School,15.26,35.0,65.1,30.1,06:55,06:25,31.7,68.1,16:32,17:08,66.5
+63,Bukit Merah – Telok Blangah Heights,Bukit Merah,Fuhua Secondary School,12.05,29.5,58.5,29.1,07:00,06:32,26.8,61.5,16:27,17:02,63.7
+64,Jurong West – Jurong West Street 81,Jurong West,Chij Saint Theresa'S Convent,16.07,36.3,66.7,30.4,06:54,06:23,33.0,69.7,16:33,17:10,67.2
+65,Bishan – Bishan Street 13,Bishan,Yishun Town Secondary School,9.6,25.3,48.4,23.2,07:05,06:42,23.1,50.4,16:23,16:50,50.5
+66,Kallang/Whampoa – Dakota Crescent,Kallang/Whampoa,Paya Lebar Methodist Girls' School,4.75,16.6,37.5,20.9,07:13,06:52,15.4,39.5,16:15,16:40,45.0
+67,Geylang – Circuit Road,Geylang,Ahmad Ibrahim Secondary School,13.62,32.1,61.7,29.6,06:58,06:28,29.2,64.7,16:29,17:05,65.1
+68,Pasir Ris – Pasir Ris Street 11,Pasir Ris,Tanjong Katong Secondary School,9.23,24.7,47.7,23.0,07:05,06:42,22.5,49.7,16:22,16:50,50.2
+69,Clementi – Clementi Avenue 3,Clementi,Yishun Town Secondary School,15.26,34.9,65.1,30.1,06:55,06:25,31.7,68.1,16:32,17:08,66.5
+70,Jurong East – Teban Gardens Road,Jurong East,Swiss Cottage Secondary School,4.96,17.0,38.1,21.0,07:13,06:52,15.8,40.1,16:16,16:40,45.3
+71,Choa Chu Kang – Teck Whye Lane,Choa Chu Kang,Victoria School,21.1,45.1,77.2,32.0,06:45,06:13,40.8,80.2,16:41,17:20,71.4
+72,Kallang/Whampoa – Race Course Road,Kallang/Whampoa,Catholic High School,4.65,16.4,37.3,20.8,07:14,06:53,15.2,39.3,16:15,16:39,44.9
+73,Sengkang – Compassvale Street,Sengkang,Damai Secondary School,7.05,20.8,42.9,22.1,07:09,06:47,19.1,44.9,16:19,16:45,47.9
+74,Clementi – Clementi Avenue 3,Clementi,Nanyang Girls' High School,4.27,15.7,36.3,20.6,07:14,06:54,14.6,38.3,16:15,16:38,44.3
+75,Toa Payoh – Kim Keat Link,Toa Payoh,Saint Andrew'S Secondary School,1.02,8.2,20.9,12.7,07:22,07:09,7.9,22.9,16:08,16:23,27.8
+76,Queenstown – Strathmore Avenue,Queenstown,Crescent Girls' School,0.86,7.8,20.2,12.4,07:22,07:10,7.5,22.2,16:08,16:22,27.1
+77,Woodlands – Woodlands Drive 16,Woodlands,Fuhua Secondary School,11.87,29.2,58.2,29.0,07:01,06:32,26.6,61.2,16:27,17:01,63.6
+78,Queenstown – Commonwealth Crescent,Queenstown,Ang Mo Kio Secondary School,8.36,23.1,45.8,22.7,07:07,06:44,21.2,47.8,16:21,16:48,49.3
+79,Central Area – Waterloo Street,Central Area,Queensway Secondary School,5.57,18.2,39.5,21.4,07:12,06:50,16.8,41.5,16:17,16:42,46.1
+80,Bukit Merah – Lengkok Bahru,Bukit Merah,Boon Lay Secondary School,13.53,32.0,61.6,29.6,06:58,06:28,29.1,64.6,16:29,17:05,65.0
+81,Punggol – Punggol Drive,Punggol,Pasir Ris Secondary School,6.62,20.1,42.0,21.9,07:10,06:48,18.5,44.0,16:18,16:44,47.4
+82,Bedok – Bedok South Avenue 2,Bedok,Assumption English School,19.35,42.1,73.5,31.5,06:48,06:16,38.1,76.5,16:38,17:16,69.9
+83,Toa Payoh – Lorong 4 Toa Payoh,Toa Payoh,Swiss Cottage Secondary School,11.48,28.5,57.4,28.9,07:02,06:33,26.0,60.4,16:26,17:00,63.2
+84,Pasir Ris – Pasir Ris Street 51,Pasir Ris,Nan Hua High School,21.35,45.6,77.7,32.1,06:44,06:12,41.2,80.7,16:41,17:21,71.6
+85,Tampines – Tampines Street 21,Tampines,Northbrooks Secondary School,13.89,32.6,62.3,29.7,06:57,06:28,29.6,65.3,16:30,17:05,65.3
+86,Choa Chu Kang – Choa Chu Kang North 6,Choa Chu Kang,Temasek Secondary School,23.98,50.2,83.2,33.0,06:40,06:07,45.4,86.2,16:45,17:26,73.8
+87,Tengah – Plantation Crescent,Tengah,Dunman High School,17.6,39.0,69.9,30.9,06:51,06:20,35.3,72.9,16:35,17:13,68.4
+88,Geylang – Circuit Road,Geylang,Woodgrove Secondary School,15.06,34.6,64.7,30.1,06:55,06:25,31.4,67.7,16:31,17:08,66.3
+89,Jurong East – Jurong East Street 21,Jurong East,"School Of Science And Technology, Singapore",5.05,17.2,38.3,21.1,07:13,06:52,15.9,40.3,16:16,16:40,45.4
+90,Punggol – Edgedale Plains,Punggol,Singapore Chinese Girls' School,12.48,30.2,59.4,29.2,07:00,06:31,27.5,62.4,16:28,17:02,64.1
+91,Jurong West – Jurong West Street 42,Jurong West,Bukit Merah Secondary School,12.24,29.8,58.9,29.1,07:00,06:31,27.1,61.9,16:27,17:02,63.9
+92,Yishun – Yishun Street 22,Yishun,Regent Secondary School,10.72,27.2,50.8,23.6,07:03,06:39,24.8,52.8,16:25,16:53,51.6
+93,Bedok – Jalan Tenaga,Bedok,Fuhua Secondary School,20.0,43.2,74.8,31.7,06:47,06:15,39.1,77.8,16:39,17:18,70.4
+94,Geylang – Sims Drive,Geylang,Bedok View Secondary School,7.5,21.7,44.0,22.3,07:08,06:46,19.9,46.0,16:20,16:46,48.4
+95,Yishun – Yishun Street 11,Yishun,Bendemeer Secondary School,12.04,29.4,58.5,29.1,07:01,06:32,26.8,61.5,16:27,17:02,63.7
+96,Tampines – Tampines Street 21,Tampines,Fajar Secondary School,20.94,44.8,76.8,32.0,06:45,06:13,40.6,79.8,16:41,17:20,71.2
+97,Tengah – Sungei Tengah Road,Tengah,Anglo-Chinese School,11.72,28.9,57.8,28.9,07:01,06:32,26.3,60.8,16:26,17:01,63.5
+98,Choa Chu Kang – Teck Whye Lane,Choa Chu Kang,Woodlands Secondary School,7.08,20.9,43.0,22.1,07:09,06:47,19.2,45.0,16:19,16:45,47.9
+99,Jurong East – Jurong East Street 31,Jurong East,Whitley Secondary School,12.44,30.1,59.3,29.2,07:00,06:31,27.4,62.3,16:27,17:02,64.1
+100,Clementi – Clementi West Street 2,Clementi,Deyi Secondary School,11.97,29.3,58.4,29.0,07:01,06:32,26.7,61.4,16:27,17:01,63.7

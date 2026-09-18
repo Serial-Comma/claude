@@ -1,0 +1,101 @@
+id,estate,town,school,km
+1,Bukit Timah – Toh Yi Dr (1),Bukit Timah,Orchid Park Secondary School,11.22
+2,Sembawang – Sembawang Ave (2),Sembawang,Zhenghua Secondary School,7.48
+3,Toa Payoh – Lor 1 Toa Payoh (1),Toa Payoh,Chij St. Joseph'S Convent,8.45
+4,Geylang – Circuit Rd (3),Geylang,St. Hilda'S Secondary School,6.07
+5,Tampines – Tampines St 45,Tampines,Yishun Secondary School,15.88
+6,Tampines – Tampines St 62,Tampines,Tanjong Katong Girls' School,8.01
+7,Hougang – Tampines Rd (1),Hougang,Admiralty Secondary School,18.74
+8,Tengah – Tengah Rd (3),Tengah,Bukit View Secondary School,14.4
+9,Bukit Panjang – Senja Rd,Bukit Panjang,Nanyang Girls' High School,7.55
+10,Bukit Merah – Jln Bt Merah,Bukit Merah,Unity Secondary School,15.91
+11,Ang Mo Kio – Ang Mo Kio Ave 10 (2),Ang Mo Kio,Yishun Secondary School,7.58
+12,Woodlands – Woodlands St 41,Woodlands,Northlight School,15.24
+13,Geylang – Cassia Cres,Geylang,Singapore Chinese Girls' School,6.51
+14,Hougang – Hougang St 13,Hougang,Presbyterian High School,9.55
+15,Kallang/Whampoa – Jln Batu,Kallang/Whampoa,"School Of Science And Technology, Singapore",12.24
+16,Sembawang – Montreal Link,Sembawang,Bukit Panjang Govt. High School,12.31
+17,Yishun – Yishun Ring Rd (2),Yishun,Peicai Secondary School,8.41
+18,Bukit Merah – Depot Rd,Bukit Merah,Naval Base Secondary School,16.11
+19,Jurong East – Teban Gdns Rd,Jurong East,West Spring Secondary School,7.69
+20,Central Area – Queen St,Central Area,Northland Secondary School,15.11
+21,Bedok – Bedok Reservoir Rd (1),Bedok,Regent Secondary School,19.01
+22,Kallang/Whampoa – Jln Bahagia,Kallang/Whampoa,Westwood Secondary School,17.83
+23,Punggol – Punggol Dr (1),Punggol,Changkat Changi Secondary School,8.29
+24,Pasir Ris – Pasir Ris St 11,Pasir Ris,Yuan Ching Secondary School,26.25
+25,Bukit Timah – Queen'S Rd,Bukit Timah,St. Margaret'S School (Secondary),0.26
+26,Sembawang – Canberra Cres,Sembawang,Yishun Secondary School,1.95
+27,Pasir Ris – Pasir Ris Dr 6,Pasir Ris,Marsiling Secondary School,21.31
+28,Punggol – Sumang Walk,Punggol,Woodlands Secondary School,14.22
+29,Sembawang – Montreal Link,Sembawang,Zhonghua Secondary School,12.4
+30,Bedok – Bedok Reservoir Rd (1),Bedok,Jurong Secondary School,20.74
+31,Bukit Timah – Toh Yi Dr (3),Bukit Timah,Bedok View Secondary School,18.86
+32,Yishun – Yishun Ave 6,Yishun,Chij St. Joseph'S Convent,7.04
+33,Yishun – Yishun St 21,Yishun,St. Patrick'S School,16.7
+34,Queenstown – C'Wealth Dr,Queenstown,Crest Secondary School,7.85
+35,Sembawang – Admiralty Dr,Sembawang,Jurong West Secondary School,17.98
+36,Bukit Timah – Empress Rd,Bukit Timah,Victoria School,13.66
+37,Woodlands – Woodlands Dr 75,Woodlands,Woodgrove Secondary School,1.75
+38,Yishun – Yishun Ave 4,Yishun,Loyang View Secondary School,14.0
+39,Tampines – Tampines St 64,Tampines,Spectra Secondary School,15.74
+40,Toa Payoh – Lor 8 Toa Payoh,Toa Payoh,Northbrooks Secondary School,9.2
+41,Serangoon – Serangoon Ave 2,Serangoon,Yuhua Secondary School,16.4
+42,Woodlands – Marsiling Dr,Woodlands,Woodlands Secondary School,0.51
+43,Pasir Ris – Pasir Ris St 11,Pasir Ris,Swiss Cottage Secondary School,22.82
+44,Geylang – Circuit Rd (2),Geylang,New Town Secondary School,8.61
+45,Hougang – Hougang Ave 5,Hougang,Anderson Secondary School,4.72
+46,Bedok – Chai Chee Rd,Bedok,Deyi Secondary School,9.07
+47,Toa Payoh – Kim Keat Ave,Toa Payoh,West Spring Secondary School,12.48
+48,Sengkang – Fernvale Rd,Sengkang,Yishun Secondary School,6.37
+49,Kallang/Whampoa – Cambridge Rd,Kallang/Whampoa,Hai Sing Catholic School,13.24
+50,Hougang – Hougang St 51,Hougang,Yio Chu Kang Secondary School,5.27
+51,Queenstown – Strathmore Ave,Queenstown,Yuying Secondary School,11.27
+52,Sembawang – Canberra Rd,Sembawang,Tampines Secondary School,17.94
+53,Tampines – Simei St 1,Tampines,Bartley Secondary School,7.99
+54,Jurong East – Jurong East St 31,Jurong East,Orchid Park Secondary School,13.96
+55,Queenstown – Ghim Moh Rd,Queenstown,Chij Secondary (Toa Payoh),6.46
+56,Punggol – Punggol Dr (2),Punggol,Zhenghua Secondary School,17.06
+57,Hougang – Hougang St 51,Hougang,Unity Secondary School,16.17
+58,Choa Chu Kang – Choa Chu Kang Ctrl,Choa Chu Kang,St. Margaret'S School (Secondary),10.05
+59,Sembawang – Canberra St,Sembawang,Broadrick Secondary School,17.0
+60,Toa Payoh – Bartley Walk,Toa Payoh,Meridian Secondary School,5.89
+61,Sembawang – Canberra Rd,Sembawang,Regent Secondary School,10.04
+62,Bukit Merah – Lengkok Bahru,Bukit Merah,Greenridge Secondary School,11.23
+63,Pasir Ris – Pasir Ris St 21 (2),Pasir Ris,Damai Secondary School,5.47
+64,Punggol – Northshore Dr (2),Punggol,Ang Mo Kio Secondary School,9.5
+65,Bukit Merah – Cantonment Cl,Bukit Merah,Admiralty Secondary School,19.41
+66,Punggol – Northshore Dr (2),Punggol,Canberra Secondary School,11.56
+67,Tengah – Tengah Rd (2),Tengah,Guangyang Secondary School,4.76
+68,Hougang – Hougang Ave 1,Hougang,Chung Cheng High School (Main),5.38
+69,Tengah – Tengah Gdn Ave,Tengah,Bedok South Secondary School,24.57
+70,Serangoon – Serangoon Nth Ave 4,Serangoon,Meridian Secondary School,8.49
+71,Toa Payoh – Lor 8 Toa Payoh,Toa Payoh,Queenstown Secondary School,7.04
+72,Central Area – Jln Kukoh,Central Area,Ahmad Ibrahim Secondary School,16.57
+73,Jurong West – Boon Lay Dr,Jurong West,Yishun Secondary School,15.67
+74,Woodlands – Woodlands St 13,Woodlands,Compassvale Secondary School,14.39
+75,Serangoon – Serangoon Nth Ave 4,Serangoon,Jurong Secondary School,17.15
+76,Queenstown – Dover Cres,Queenstown,Commonwealth Secondary School,4.46
+77,Tengah – Tengah Dr (2),Tengah,Yusof Ishak Secondary School,1.91
+78,Jurong East – Jurong East St 31,Jurong East,Canberra Secondary School,14.84
+79,Punggol – Edgedale Plains,Punggol,Dunman Secondary School,6.18
+80,Bukit Timah – Farrer Rd,Bukit Timah,Northbrooks Secondary School,12.26
+81,Sembawang – Canberra Cres,Sembawang,St. Anthony'S Canossian Secondary School,17.33
+82,Pasir Ris – Pasir Ris St 51,Pasir Ris,Deyi Secondary School,10.77
+83,Sengkang – Fernvale Rd,Sengkang,Guangyang Secondary School,5.8
+84,Pasir Ris – Pasir Ris St 52,Pasir Ris,Ang Mo Kio Secondary School,11.46
+85,Bukit Panjang – Segar Rd,Bukit Panjang,Serangoon Garden Secondary School,11.22
+86,Bukit Batok – Bt Batok East Ave 5,Bukit Batok,Bendemeer Secondary School,11.92
+87,Kallang/Whampoa – Beach Rd,Kallang/Whampoa,Punggol Secondary School,11.95
+88,Bedok – Bedok Reservoir Rd (1),Bedok,Assumption English School,16.5
+89,Sembawang – Sembawang Cl,Sembawang,Woodlands Ring Secondary School,5.01
+90,Jurong West – Jurong West St 61,Jurong West,North Vista Secondary School,22.77
+91,Punggol – Northshore Dr (2),Punggol,Pasir Ris Crest Secondary School,7.25
+92,Bukit Timah – Empress Rd,Bukit Timah,Yuan Ching Secondary School,9.81
+93,Queenstown – Strathmore Ave,Queenstown,Evergreen Secondary School,16.43
+94,Central Area – Jln Kukoh,Central Area,Hillgrove Secondary School,12.08
+95,Punggol – Sumang Lane,Punggol,Pei Hwa Secondary School,2.25
+96,Queenstown – Ghim Moh Rd,Queenstown,Jurongville Secondary School,8.08
+97,Woodlands – Woodlands St 41,Woodlands,Bukit Batok Secondary School,9.96
+98,Serangoon – Serangoon Ave 2,Serangoon,Spectra Secondary School,11.74
+99,Bedok – Chai Chee Rd,Bedok,Guangyang Secondary School,8.45
+100,Toa Payoh – Lor 1 Toa Payoh (1),Toa Payoh,Fairfield Methodist School (Secondary),8.17

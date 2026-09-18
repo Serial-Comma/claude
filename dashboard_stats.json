@@ -1,0 +1,92 @@
+{
+  "v1": {
+    "n": 93,
+    "car_am_mean": 38.1,
+    "pt_am_mean": 63.4,
+    "adv_am_mean": 25.3,
+    "adv_am_median": 23.8,
+    "adv_am_p10": 6.4,
+    "adv_am_p90": 51.3,
+    "adv_pm_mean": 27.2,
+    "car_pm_mean": 33.6,
+    "pt_pm_mean": 60.8,
+    "adv_day_mean": 52.5,
+    "per_year_hours": 166.0,
+    "per_4yr_hours": 666.0,
+    "per_4yr_days": 27.7,
+    "pt_car_ratio": 1.66,
+    "mean_km": 11.3,
+    "median_km": 11.29,
+    "bands": {
+      "<5": {
+        "n": 15,
+        "car": 19.4,
+        "pt": 35.5,
+        "adv": 16.1
+      },
+      "5-10": {
+        "n": 23,
+        "car": 29.5,
+        "pt": 48.3,
+        "adv": 18.9
+      },
+      "10-15": {
+        "n": 31,
+        "car": 42.3,
+        "pt": 72.4,
+        "adv": 30.1
+      },
+      ">15": {
+        "n": 24,
+        "car": 52.7,
+        "pt": 83.7,
+        "adv": 31.0
+      }
+    }
+  },
+  "v2": {
+    "n": 98,
+    "car_am_mean": 39.2,
+    "pt_am_mean": 63.0,
+    "adv_am_mean": 23.8,
+    "adv_am_median": 20.3,
+    "adv_am_p10": 5.0,
+    "adv_am_p90": 49.4,
+    "adv_pm_mean": 26.1,
+    "car_pm_mean": 34.1,
+    "pt_pm_mean": 60.2,
+    "adv_day_mean": 49.9,
+    "per_year_hours": 158.0,
+    "per_4yr_hours": 631.0,
+    "per_4yr_days": 26.3,
+    "pt_car_ratio": 1.61,
+    "mean_km": 11.54,
+    "median_km": 11.27,
+    "bands": {
+      "<5": {
+        "n": 9,
+        "car": 16.3,
+        "pt": 29.2,
+        "adv": 12.9
+      },
+      "5-10": {
+        "n": 34,
+        "car": 30.9,
+        "pt": 46.1,
+        "adv": 15.2
+      },
+      "10-15": {
+        "n": 25,
+        "car": 42.6,
+        "pt": 74.9,
+        "adv": 32.3
+      },
+      ">15": {
+        "n": 30,
+        "car": 52.6,
+        "pt": 82.3,
+        "adv": 29.7
+      }
+    }
+  }
+}
